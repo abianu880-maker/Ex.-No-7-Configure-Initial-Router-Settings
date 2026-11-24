@@ -80,7 +80,13 @@ ________________________________________
 ________________________________________
 # Output (Attach Screenshots)
 •	Console connection to router<br>
+
+
+<img width="1920" height="1080" alt="Screenshot (638)" src="https://github.com/user-attachments/assets/61afec74-472f-4898-9291-460e95e12fb9" />
+
 •	Running configuration before and after<br>
+<img width="1920" height="1080" alt="Screenshot (637)" src="https://github.com/user-attachments/assets/f24c2f0f-32cd-44b0-88ea-4cbe7ed0599a" />
+
 •	MOTD banner display<br>
 •	Password prompts<br>
 •	Saved configuration in NVRAM and flash<br>
